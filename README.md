@@ -1,2 +1,2 @@
 # my-first-repo
-Practicing Git with Coursera
+Practicing Git with META course on Coursera.com
